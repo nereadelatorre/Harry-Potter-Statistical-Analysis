@@ -28,7 +28,7 @@ The goal of this study is to define "success" not just by Box Office revenue, bu
 
 * `final_adc.R`: The main R script containing all statistical computations, simulations (1000 replications), and visualizations.
 * `Final_project_ADC.pdf`: The detailed academic report explaining the methodology and conclusions.
-* `Movies.xlsx` (Dataset): Contains data on Budget, Box Office, Runtime, and Release Year for all 8 films.
+* `movies.csv` (Dataset): Contains data on Budget, Box Office, Runtime, and Release Year for all 8 films.
 
 ## Key Findings
 
