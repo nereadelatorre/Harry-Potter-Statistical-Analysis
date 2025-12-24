@@ -52,7 +52,7 @@ Based on the analysis performed in `final_adc.R`:
 3.  **Important:** Update the file path in line 3 to point to your local dataset:
     ```r
     # Change this line to your local path
-    dataset = read_excel("./path/to/Movies.xlsx")
+    dataset = read_excel("./path/to/movies.csv")
     ```
 4.  Run the script to generate the plots and bootstrap simulations.
 
